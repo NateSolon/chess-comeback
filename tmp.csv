@@ -1,0 +1,914 @@
+Event,Round,Result,OpponentELO,r2,previous
+Abu Dhabi Super Blitz op 1st,8,1.0,2630,8.0,1.0
+Abu Dhabi Super Blitz op 1st,9,0.5,2736,9.0,1.0
+Abu Dhabi Super Blitz op 1st,10,0.0,2716,10.0,0.5
+Airthings Masters Prelim,2,0.0,2781,2.0,0.5
+Airthings Masters Prelim,3,0.0,2770,3.0,0.0
+Airthings Masters Prelim,4,0.5,2765,4.0,0.0
+Airthings Masters Prelim,5,1.0,2732,5.0,0.5
+Airthings Masters Prelim,6,0.0,2702,6.0,1.0
+Airthings Masters Prelim,7,0.5,2675,7.0,0.0
+Airthings Masters Prelim,8,0.5,2862,8.0,0.5
+Airthings Masters Prelim,9,1.0,2784,9.0,0.5
+Airthings Masters Prelim,10,0.5,2777,10.0,1.0
+Airthings Masters Prelim,11,0.0,2736,11.0,0.5
+Amsterdam Levitov blitz,2,0.5,2774,2.0,0.5
+Amsterdam Levitov blitz,3,0.0,2756,3.0,0.5
+Amsterdam Levitov blitz,4,1.0,2643,4.0,0.0
+Amsterdam Levitov blitz,5,0.0,2759,5.0,1.0
+Amsterdam Levitov blitz,6,0.0,2729,6.0,0.0
+Amsterdam Levitov blitz,7,0.0,2753,7.0,0.0
+Amsterdam Levitov rapid,2,0.5,2753,2.0,0.5
+Amsterdam Levitov rapid,3,0.5,2729,3.0,0.5
+Amsterdam Levitov rapid,4,1.0,2643,4.0,0.5
+Amsterdam Levitov rapid,5,0.5,2759,5.0,1.0
+Amsterdam Levitov rapid,6,1.0,2774,6.0,0.5
+Amsterdam Levitov rapid,7,0.5,2686,7.0,1.0
+Bucharest Superbet blitz,2,0.5,2760,2.0,0.5
+Bucharest Superbet blitz,3,0.0,2754,3.0,0.5
+Bucharest Superbet blitz,4,0.5,2822,4.0,0.0
+Bucharest Superbet blitz,5,0.5,2772,5.0,0.5
+Bucharest Superbet blitz,6,0.5,2670,6.0,0.5
+Bucharest Superbet blitz,7,0.0,2713,7.0,0.5
+Bucharest Superbet blitz,8,0.5,2772,8.0,0.0
+Bucharest Superbet blitz,9,0.5,2757,9.0,0.5
+Bucharest Superbet blitz,10,0.0,2731,10.0,0.5
+Bucharest Superbet blitz,11,0.5,2760,11.0,0.0
+Bucharest Superbet blitz,12,0.5,2754,12.0,0.5
+Bucharest Superbet blitz,13,0.5,2822,13.0,0.5
+Bucharest Superbet blitz,14,0.5,2772,14.0,0.5
+Bucharest Superbet blitz,15,0.5,2670,15.0,0.5
+Bucharest Superbet blitz,16,1.0,2713,16.0,0.5
+Bucharest Superbet blitz,17,0.5,2772,17.0,1.0
+Bucharest Superbet blitz,18,0.5,2757,18.0,0.5
+Bucharest Superbet rapid,2,0.5,2822,2.0,1.0
+Bucharest Superbet rapid,3,1.0,2754,3.0,0.5
+Bucharest Superbet rapid,4,1.0,2713,4.0,1.0
+Bucharest Superbet rapid,5,0.0,2731,5.0,1.0
+Bucharest Superbet rapid,6,0.5,2757,6.0,0.0
+Bucharest Superbet rapid,7,0.0,2772,7.0,0.5
+Bucharest Superbet rapid,8,0.5,2670,8.0,0.0
+Bucharest Superbet rapid,9,0.5,2772,9.0,0.5
+Candidates Tournament,2,0.5,2762,2.0,0.0
+Candidates Tournament,3,0.5,2767,3.0,0.5
+Candidates Tournament,4,0.5,2805,4.0,0.5
+Candidates Tournament,5,0.5,2842,5.0,0.5
+Candidates Tournament,6,1.0,2698,6.0,0.5
+Candidates Tournament,7,0.5,2777,7.0,1.0
+Candidates Tournament,8,0.5,2774,8.0,0.5
+Candidates Tournament,9,1.0,2762,9.0,0.5
+Candidates Tournament,10,0.5,2767,10.0,1.0
+Candidates Tournament,11,1.0,2805,11.0,0.5
+Candidates Tournament,12,1.0,2842,12.0,1.0
+Candidates Tournament,13,0.0,2777,13.0,1.0
+Candidates Tournament,14,0.0,2698,14.0,0.0
+Carlsen Inv KO,1.12,1.0,2758,1.12,0.0
+Carlsen Inv KO,1.13,0.5,2758,1.13,1.0
+Carlsen Inv KO,1.14,0.5,2758,1.14,0.5
+Carlsen Inv KO,1.21,0.5,2758,1.21,0.5
+Carlsen Inv KO,1.22,1.0,2758,1.22,0.5
+Carlsen Inv KO,1.23,0.5,2758,1.23,1.0
+Carlsen Inv KO,1.24,1.0,2758,1.24,0.5
+Carlsen Inv KO,2.11,0.0,2770,2.11,1.0
+Carlsen Inv KO,2.12,0.5,2770,2.12,0.0
+Carlsen Inv KO,2.13,1.0,2770,2.13,0.5
+Carlsen Inv KO,2.14,1.0,2770,2.14,1.0
+Carlsen Inv KO,2.21,0.5,2770,2.21,1.0
+Carlsen Inv KO,2.22,0.5,2770,2.22,0.5
+Carlsen Inv KO,2.23,0.5,2770,2.23,0.5
+Carlsen Inv KO,2.24,1.0,2770,2.24,0.5
+Carlsen Inv KO,3.11,0.5,2789,3.11,1.0
+Carlsen Inv KO,3.12,0.5,2789,3.12,0.5
+Carlsen Inv KO,3.13,0.5,2789,3.13,0.5
+Carlsen Inv KO,3.14,0.5,2789,3.14,0.5
+Carlsen Inv KO,3.21,0.5,2789,3.21,0.5
+Carlsen Inv KO,3.22,1.0,2789,3.22,0.5
+Carlsen Inv KO,3.23,0.5,2789,3.23,1.0
+Carlsen Inv KO,3.24,0.0,2789,3.24,0.5
+Carlsen Inv KO,3.31,1.0,2789,3.31,0.0
+Carlsen Inv KO,3.32,1.0,2789,3.32,1.0
+Carlsen Inv Prelim,1.1,0.0,2778,1.1,0.5
+Carlsen Inv Prelim,1.2,0.0,2778,1.2,0.0
+Carlsen Inv Prelim,1.3,0.5,2778,1.3,0.0
+Carlsen Inv Prelim,1.4,0.5,2778,1.4,0.5
+Carlsen Inv Prelim,2,0.5,2759,2.0,0.5
+Carlsen Inv Prelim,2.1,0.0,2736,2.1,0.5
+Carlsen Inv Prelim,2.2,0.5,2736,2.2,0.0
+Carlsen Inv Prelim,2.3,0.5,2736,2.3,0.5
+Carlsen Inv Prelim,2.4,0.5,2736,2.4,0.5
+Carlsen Inv Prelim,3,1.0,2630,3.0,0.5
+Carlsen Inv Prelim,3.1,0.5,2784,3.1,1.0
+Carlsen Inv Prelim,3.2,0.0,2784,3.2,0.5
+Carlsen Inv Prelim,3.3,0.5,2784,3.3,0.0
+Carlsen Inv Prelim,3.4,0.5,2784,3.4,0.5
+Carlsen Inv Prelim,4,1.0,2847,4.0,0.5
+Carlsen Inv Prelim,4.1,0.5,2791,4.1,1.0
+Carlsen Inv Prelim,4.2,0.0,2791,4.2,0.5
+Carlsen Inv Prelim,4.3,1.0,2791,4.3,0.0
+Carlsen Inv Prelim,4.4,0.5,2791,4.4,1.0
+Carlsen Inv Prelim,4.5,0.5,2791,4.5,0.5
+Carlsen Inv Prelim,5,1.0,2770,5.0,0.5
+Carlsen Inv Prelim,5.1,0.5,2863,5.1,1.0
+Carlsen Inv Prelim,5.2,1.0,2863,5.2,0.5
+Carlsen Inv Prelim,5.3,0.5,2863,5.3,1.0
+Carlsen Inv Prelim,5.4,0.5,2863,5.4,0.5
+Carlsen Inv Prelim,6,1.0,2673,6.0,0.5
+Carlsen Inv Prelim,6.1,0.0,2728,6.1,1.0
+Carlsen Inv Prelim,6.2,1.0,2728,6.2,0.0
+Carlsen Inv Prelim,6.3,0.0,2728,6.3,1.0
+Carlsen Inv Prelim,6.4,0.5,2728,6.4,0.0
+Carlsen Inv Prelim,7,1.0,2781,7.0,0.5
+Carlsen Inv Prelim,7.1,0.5,2835,7.1,1.0
+Carlsen Inv Prelim,7.2,1.0,2835,7.2,0.5
+Carlsen Inv Prelim,7.3,1.0,2835,7.3,1.0
+Carlsen Inv Prelim,7.4,0.0,2835,7.4,1.0
+Carlsen Inv Prelim,8,0.5,2670,8.0,0.0
+Carlsen Inv Prelim,9,0.5,2710,9.0,0.5
+Carlsen Inv Prelim,10,1.0,2770,10.0,0.5
+Carlsen Inv Prelim,11,0.5,2736,11.0,1.0
+Carlsen Inv Prelim,12,0.0,2789,12.0,0.5
+Carlsen Inv Prelim,13,0.5,2701,13.0,0.0
+Carlsen Inv Prelim,14,0.5,2757,14.0,0.5
+Carlsen Inv Prelim,15,0.5,2758,15.0,0.5
+Chess.com Speed,1.12,0.5,2708,1.12,0.0
+Chess.com Speed,1.13,1.0,2708,1.13,0.5
+Chess.com Speed,1.14,0.5,2708,1.14,1.0
+Chess.com Speed,1.15,0.0,2708,1.15,0.5
+Chess.com Speed,1.16,0.5,2708,1.16,0.0
+Chess.com Speed,1.17,0.5,2708,1.17,0.5
+Chess.com Speed,1.18,0.0,2708,1.18,0.5
+Chess.com Speed,1.19,0.5,2708,1.19,0.0
+Chess.com Speed,1.21,0.0,2708,1.21,0.5
+Chess.com Speed,1.22,1.0,2708,1.22,0.0
+Chess.com Speed,1.23,1.0,2708,1.23,1.0
+Chess.com Speed,1.24,0.0,2708,1.24,1.0
+Chess.com Speed,1.25,1.0,2708,1.25,0.0
+Chess.com Speed,1.26,0.5,2708,1.26,1.0
+Chess.com Speed,1.27,0.0,2708,1.27,0.5
+Chess.com Speed,1.28,1.0,2708,1.28,0.0
+Chess.com Speed,1.31,0.0,2708,1.31,1.0
+Chess.com Speed,1.32,0.5,2708,1.32,0.0
+Chess.com Speed,1.33,0.5,2708,1.33,0.5
+Chess.com Speed,1.34,0.5,2708,1.34,0.5
+Chess.com Speed,1.35,0.0,2708,1.35,0.5
+Chess.com Speed,1.36,0.5,2708,1.36,0.0
+Chess.com Speed,1.37,0.0,2708,1.37,0.5
+Chess.com Speed,1.38,0.0,2708,1.38,0.0
+Chess.com Speed,1.39,1.0,2708,1.39,0.0
+Chess.com Speed,1.54,0.5,2708,1.54,1.0
+Chess24 Banter Blitz Cup Final,1.10,1.0,2723,1.1,1.0
+Chess24 Banter Blitz Cup Final,1.11,0.5,2723,1.11,1.0
+Chess24 Banter Blitz Cup Final,1.12,0.5,2723,1.12,0.5
+Chess24 Banter Blitz Cup Final,1.13,1.0,2723,1.13,0.5
+Chess24 Banter Blitz Cup Final,1.2,0.0,2723,1.2,1.0
+Chess24 Banter Blitz Cup Final,1.3,1.0,2723,1.3,0.0
+Chess24 Banter Blitz Cup Final,1.4,0.0,2723,1.4,1.0
+Chess24 Banter Blitz Cup Final,1.5,1.0,2723,1.5,0.0
+Chess24 Banter Blitz Cup Final,1.6,0.0,2723,1.6,1.0
+Chess24 Banter Blitz Cup Final,1.7,0.0,2723,1.7,0.0
+Chess24 Banter Blitz Cup Final,1.8,0.5,2723,1.8,0.0
+Chess24 Banter Blitz Cup Final,1.9,0.5,2723,1.9,0.5
+Chess24 Banter Blitz Cup Final,2.1,0.0,2863,2.1,0.5
+Chess24 Banter Blitz Cup Final,2.2,0.0,2863,2.2,0.0
+Chess24 Banter Blitz Cup Final,2.3,0.0,2863,2.3,0.0
+Chess24 Banter Blitz Cup Final,2.4,0.5,2863,2.4,0.0
+Chess24 Banter Blitz Cup Final,2.5,0.0,2863,2.5,0.5
+Chess24 Banter Blitz Cup Final,2.6,1.0,2863,2.6,0.0
+Chess24 Banter Blitz Cup Final,2.7,0.0,2863,2.7,1.0
+Chessable Masters Final,1.12,0.5,2777,1.12,0.5
+Chessable Masters Final,1.13,0.5,2777,1.13,0.5
+Chessable Masters Final,1.14,0.5,2777,1.14,0.5
+Chessable Masters Final,1.15,0.5,2777,1.15,0.5
+Chessable Masters Final,1.16,0.5,2777,1.16,0.5
+Chessable Masters Final,1.17,0.5,2777,1.17,0.5
+Chessable Masters Final,1.21,0.5,2777,1.21,0.5
+Chessable Masters Final,1.22,1.0,2777,1.22,0.5
+Chessable Masters Final,1.23,0.5,2777,1.23,1.0
+Chessable Masters Final,1.24,1.0,2777,1.24,0.5
+Chessable Masters Final,2.11,0.5,2784,2.11,1.0
+Chessable Masters Final,2.12,1.0,2784,2.12,0.5
+Chessable Masters Final,2.13,0.5,2784,2.13,1.0
+Chessable Masters Final,2.14,1.0,2784,2.14,0.5
+Chessable Masters Final,2.21,0.5,2784,2.21,1.0
+Chessable Masters Final,2.22,0.0,2784,2.22,0.5
+Chessable Masters Final,2.23,0.5,2784,2.23,0.0
+Chessable Masters Final,2.24,0.5,2784,2.24,0.5
+Chessable Masters Final,2.31,0.0,2784,2.31,0.5
+Chessable Masters Final,2.32,1.0,2784,2.32,0.0
+Chessable Masters Final,2.33,0.5,2784,2.33,1.0
+Chessable Masters Final,2.34,0.5,2784,2.34,0.5
+Chessable Masters Final,2.35,0.5,2784,2.35,0.5
+Chessable Masters Final,2.36,1.0,2784,2.36,0.5
+Chessable Masters Final,3.11,0.5,2863,3.11,1.0
+Chessable Masters Final,3.12,0.0,2863,3.12,0.5
+Chessable Masters Final,3.13,0.5,2863,3.13,0.0
+Chessable Masters Final,3.14,1.0,2863,3.14,0.5
+Chessable Masters Final,3.15,0.5,2863,3.15,1.0
+Chessable Masters Final,3.16,0.0,2863,3.16,0.5
+Chessable Masters Final,3.21,0.0,2863,3.21,0.0
+Chessable Masters Final,3.22,0.5,2863,3.22,0.0
+Chessable Masters Final,3.23,0.5,2863,3.23,0.5
+Chessable Masters Final,3.24,0.5,2863,3.24,0.5
+Chessable Masters GpB,2,0.5,2791,2.0,0.5
+Chessable Masters GpB,3,0.5,2765,3.0,0.5
+Chessable Masters GpB,4,0.5,2784,4.0,0.5
+Chessable Masters GpB,5,1.0,2835,5.0,0.5
+Chessable Masters GpB,6,0.5,2778,6.0,1.0
+Chessable Masters GpB,7,1.0,2791,7.0,0.5
+Chessable Masters GpB,8,0.5,2765,8.0,1.0
+Chessable Masters GpB,9,0.5,2784,9.0,0.5
+Chessable Masters GpB,10,0.5,2835,10.0,0.5
+Chessbrahmin May,1.12,0.5,2777,1.12,0.5
+Chessbrahmin May,1.13,0.5,2777,1.13,0.5
+Chessbrahmin May,1.14,1.0,2777,1.14,0.5
+Chessbrahmin May,2.1,1.0,2784,2.1,1.0
+Chessbrahmin May,2.2,1.0,2784,2.2,1.0
+Chessbrahmin May,2.3,0.0,2784,2.3,1.0
+Chessbrahmin May,2.4,1.0,2784,2.4,0.0
+Chessbrahmin May,3.1,1.0,2728,3.1,1.0
+Chessbrahmin May,3.2,0.0,2728,3.2,1.0
+Chessbrahmin May,3.3,0.5,2728,3.3,0.0
+Chessbrahmin May,3.4,0.0,2728,3.4,0.5
+Chessbrahmin May,3.5,0.0,2728,3.5,0.0
+Chessbrahmin May,3.6,0.0,2728,3.6,0.0
+Chessbrahmin May,3.7,0.0,2728,3.7,0.0
+Croatia GCT,2,0.5,2752,2.0,0.0
+Croatia GCT,3,0.5,2754,3.0,0.5
+Croatia GCT,4,0.5,2779,4.0,0.5
+Croatia GCT,5,0.0,2805,5.0,0.5
+Croatia GCT,6,0.5,2767,6.0,0.0
+Croatia GCT,7,0.5,2819,7.0,0.5
+Croatia GCT,8,1.0,2774,8.0,0.5
+Croatia GCT,9,0.5,2748,9.0,1.0
+Croatia GCT,10,0.5,2754,10.0,0.5
+Croatia GCT,11,1.0,2775,11.0,0.5
+Danzhou 11th,2,1.0,2763,2.0,0.5
+Danzhou 11th,3,1.0,2735,3.0,1.0
+Danzhou 11th,4,0.5,2759,4.0,1.0
+Danzhou 11th,5,0.0,2732,5.0,0.5
+Danzhou 11th,6,0.0,2791,6.0,0.0
+Danzhou 11th,7,0.0,2777,7.0,0.0
+Danzhou 11th,8,0.5,2709,8.0,0.0
+Danzhou 11th,9,1.0,2763,9.0,0.5
+Danzhou 11th,10,1.0,2735,10.0,1.0
+Danzhou 11th,11,0.5,2759,11.0,1.0
+Danzhou 11th,12,0.5,2732,12.0,0.5
+Danzhou 11th,13,0.5,2791,13.0,0.5
+Danzhou 11th,14,0.5,2777,14.0,0.5
+Dortmund 46th,2,0.5,2628,2.0,0.5
+Dortmund 46th,3,0.0,2655,3.0,0.5
+Dortmund 46th,4,1.0,2672,4.0,0.0
+Dortmund 46th,5,0.5,2733,5.0,1.0
+Dortmund 46th,6,1.0,2792,6.0,0.5
+Dortmund 46th,7,0.5,2737,7.0,1.0
+Douglas IoM op,5,0.5,2639,5.0,0.5
+Douglas IoM op,6,0.5,2664,6.0,0.5
+Douglas IoM op,8,0.5,2725,8.0,0.5
+Douglas IoM op,9,0.5,2673,9.0,0.5
+EU-ch Online KO Final,2.2,0.0,2654,2.2,0.5
+EU-chT 22nd,3.3,1.0,2674,3.3,1.0
+EU-chT 22nd,4.2,0.5,2694,4.2,1.0
+EU-chT 22nd,5.4,0.5,2656,5.4,0.5
+EU-chT 22nd,6.1,0.5,2602,6.1,0.5
+EU-chT 22nd,7.1,0.5,2691,7.1,0.5
+EU-chT 22nd,8.1,0.5,2684,8.1,0.5
+EU-chT 22nd,9.1,0.5,2617,9.1,0.5
+FIDE World Cup,2.2,0.5,2635,2.2,0.5
+FIDE World Cup,2.3,0.5,2635,2.3,0.5
+FIDE World Cup,2.4,0.5,2635,2.4,0.5
+FIDE World Cup,2.5,0.5,2635,2.5,0.5
+FIDE World Cup,2.6,0.5,2635,2.6,0.5
+FIDE World Cup,2.7,1.0,2635,2.7,0.5
+FIDE World Cup,2.8,0.0,2635,2.8,1.0
+FIDE World Cup,2.9,1.0,2635,2.9,0.0
+FIDE World Cup,3.1,0.5,2707,3.1,1.0
+FIDE World Cup,3.2,0.5,2707,3.2,0.5
+FIDE World Cup,3.3,0.5,2707,3.3,0.5
+FIDE World Cup,3.4,0.5,2707,3.4,0.5
+FIDE World Cup,3.5,0.5,2707,3.5,0.5
+FIDE World Cup,3.6,0.0,2707,3.6,0.5
+FTX Crypto Cup KO,1.12,0.5,2765,1.12,0.5
+FTX Crypto Cup KO,1.13,0.5,2765,1.13,0.5
+FTX Crypto Cup KO,1.14,0.0,2765,1.14,0.5
+FTX Crypto Cup KO,1.21,0.5,2765,1.21,0.0
+FTX Crypto Cup KO,1.22,0.5,2765,1.22,0.5
+FTX Crypto Cup KO,1.23,0.5,2765,1.23,0.5
+FTX Crypto Cup KO,1.24,0.5,2765,1.24,0.5
+Gashimov Memorial 5th,2,0.5,2749,2.0,0.5
+Gashimov Memorial 5th,3,0.5,2748,3.0,0.5
+Gashimov Memorial 5th,4,0.5,2778,4.0,0.5
+Gashimov Memorial 5th,5,0.5,2814,5.0,0.5
+Gashimov Memorial 5th,6,1.0,2745,6.0,0.5
+Gashimov Memorial 5th,7,0.5,2704,7.0,1.0
+Gashimov Memorial 5th,8,0.0,2843,8.0,0.5
+Gashimov Memorial 5th,9,0.5,2744,9.0,0.0
+Gashimov Memorial 6th,2,0.0,2753,2.0,0.5
+Gashimov Memorial 6th,3,0.5,2771,3.0,0.0
+Gashimov Memorial 6th,4,0.5,2756,4.0,0.5
+Gashimov Memorial 6th,5,0.0,2779,5.0,0.5
+Gashimov Memorial 6th,6,0.5,2739,6.0,0.0
+Gashimov Memorial 6th,7,0.0,2845,7.0,0.5
+Gashimov Memorial 6th,8,0.5,2790,8.0,0.0
+Gashimov Memorial 6th,9,0.5,2812,9.0,0.5
+Giri-Van Foreest m,2,0.5,2682,2.0,0.0
+Giri-Van Foreest m,3,0.5,2682,3.0,0.5
+Giri-Van Foreest m,4,0.0,2682,4.0,0.5
+Giri-Vidit m,2,0.5,2726,2.0,1.0
+Giri-Vidit m,3,0.5,2726,3.0,0.5
+Giri-Vidit m,4,0.5,2726,4.0,0.5
+Jerusalem FIDE GP,1.2,0.5,2725,1.2,0.5
+Jerusalem FIDE GP,1.3,0.5,2725,1.3,0.5
+Jerusalem FIDE GP,1.4,0.0,2725,1.4,0.5
+Legends of Chess Final,1.12,0.0,2784,1.12,0.5
+Legends of Chess Final,1.13,0.0,2784,1.13,0.0
+Legends of Chess Final,1.21,0.5,2784,1.21,0.0
+Legends of Chess Final,1.22,0.0,2784,1.22,0.5
+Legends of Chess Final,1.23,1.0,2784,1.23,0.0
+Legends of Chess Final,1.24,0.5,2784,1.24,1.0
+Legends of Chess Final,1.25,0.0,2784,1.25,0.5
+Legends of Chess Final,1.26,1.0,2784,1.26,0.0
+Legends of Chess Final,1.27,1.0,2784,1.27,1.0
+Legends of Chess Final,1.31,0.5,2784,1.31,1.0
+Legends of Chess Final,1.32,0.5,2784,1.32,0.5
+Legends of Chess Final,1.33,0.5,2784,1.33,0.5
+Legends of Chess Final,1.34,0.5,2784,1.34,0.5
+Legends of Chess Final,1.35,0.5,2784,1.35,0.5
+Legends of Chess Final,1.36,0.0,2784,1.36,0.5
+Legends of Chess Prelim,1.2,0.0,2863,1.2,0.5
+Legends of Chess Prelim,1.3,0.5,2863,1.3,0.0
+Legends of Chess Prelim,1.4,0.0,2863,1.4,0.5
+Legends of Chess Prelim,2.1,0.5,2753,2.1,0.0
+Legends of Chess Prelim,2.2,1.0,2753,2.2,0.5
+Legends of Chess Prelim,2.3,0.5,2753,2.3,1.0
+Legends of Chess Prelim,2.4,0.5,2753,2.4,0.5
+Legends of Chess Prelim,3.1,0.0,2784,3.1,0.5
+Legends of Chess Prelim,3.2,0.0,2784,3.2,0.0
+Legends of Chess Prelim,3.3,0.5,2784,3.3,0.0
+Legends of Chess Prelim,4.1,0.5,2753,4.1,0.5
+Legends of Chess Prelim,4.2,0.5,2753,4.2,0.5
+Legends of Chess Prelim,4.3,0.5,2753,4.3,0.5
+Legends of Chess Prelim,4.4,0.5,2753,4.4,0.5
+Legends of Chess Prelim,4.5,1.0,2753,4.5,0.5
+Legends of Chess Prelim,5.1,0.5,2676,5.1,1.0
+Legends of Chess Prelim,5.2,0.5,2676,5.2,0.5
+Legends of Chess Prelim,5.3,0.5,2676,5.3,0.5
+Legends of Chess Prelim,5.4,1.0,2676,5.4,0.5
+Legends of Chess Prelim,6.1,0.5,2663,6.1,1.0
+Legends of Chess Prelim,6.2,1.0,2663,6.2,0.5
+Legends of Chess Prelim,6.3,0.0,2663,6.3,1.0
+Legends of Chess Prelim,6.4,1.0,2663,6.4,0.0
+Legends of Chess Prelim,7.1,1.0,2791,7.1,1.0
+Legends of Chess Prelim,7.2,0.5,2791,7.2,1.0
+Legends of Chess Prelim,7.3,1.0,2791,7.3,0.5
+Legends of Chess Prelim,8.1,0.5,2678,8.1,1.0
+Legends of Chess Prelim,8.2,1.0,2678,8.2,0.5
+Legends of Chess Prelim,8.3,0.0,2678,8.3,1.0
+Legends of Chess Prelim,8.4,0.5,2678,8.4,0.0
+Legends of Chess Prelim,8.5,0.0,2678,8.5,0.5
+Legends of Chess Prelim,9.1,0.5,2723,9.1,0.0
+Legends of Chess Prelim,9.2,0.5,2723,9.2,0.5
+Legends of Chess Prelim,9.3,1.0,2723,9.3,0.5
+Legends of Chess Prelim,9.4,0.5,2723,9.4,1.0
+Leuven GCT blitz,2,0.0,2789,2.0,1.0
+Leuven GCT blitz,3,0.5,2816,3.0,0.0
+Leuven GCT blitz,4,1.0,2808,4.0,0.5
+Leuven GCT blitz,5,0.0,2778,5.0,1.0
+Leuven GCT blitz,6,0.5,2782,6.0,0.0
+Leuven GCT blitz,7,0.0,2764,7.0,0.5
+Leuven GCT blitz,8,0.5,2759,8.0,0.0
+Leuven GCT blitz,9,0.5,2766,9.0,0.5
+Leuven GCT blitz,10,0.0,2769,10.0,0.5
+Leuven GCT blitz,11,0.5,2789,11.0,0.0
+Leuven GCT blitz,12,0.5,2816,12.0,0.5
+Leuven GCT blitz,13,0.5,2808,13.0,0.5
+Leuven GCT blitz,14,0.0,2778,14.0,0.5
+Leuven GCT blitz,15,0.0,2782,15.0,0.0
+Leuven GCT blitz,16,0.0,2764,16.0,0.0
+Leuven GCT blitz,17,0.0,2759,17.0,0.0
+Leuven GCT blitz,18,0.5,2766,18.0,0.0
+Leuven GCT rapid,2,1.0,2759,2.0,0.0
+Leuven GCT rapid,3,0.5,2808,3.0,1.0
+Leuven GCT rapid,4,0.0,2778,4.0,0.5
+Leuven GCT rapid,5,0.0,2764,5.0,0.0
+Leuven GCT rapid,6,0.5,2782,6.0,0.0
+Leuven GCT rapid,7,0.0,2816,7.0,0.5
+Leuven GCT rapid,8,0.0,2789,8.0,0.0
+Leuven GCT rapid,9,0.5,2766,9.0,0.0
+Moscow FIDE GP,1.2,0.0,2690,1.2,0.5
+MrDodgy Online Inv,1.10,1.0,2635,1.1,1.0
+MrDodgy Online Inv,1.2,0.0,2635,1.2,1.0
+MrDodgy Online Inv,1.3,1.0,2635,1.3,0.0
+MrDodgy Online Inv,1.4,1.0,2635,1.4,1.0
+MrDodgy Online Inv,1.5,0.5,2635,1.5,1.0
+MrDodgy Online Inv,1.6,0.5,2635,1.6,0.5
+MrDodgy Online Inv,1.7,0.5,2635,1.7,0.5
+MrDodgy Online Inv,1.8,1.0,2635,1.8,0.5
+MrDodgy Online Inv,1.9,0.5,2635,1.9,1.0
+MrDodgy Online Inv,2.1,0.5,2688,2.1,0.5
+MrDodgy Online Inv,2.2,1.0,2688,2.2,0.5
+MrDodgy Online Inv,2.3,0.5,2688,2.3,1.0
+MrDodgy Online Inv,2.4,0.0,2688,2.4,0.5
+MrDodgy Online Inv,2.5,1.0,2688,2.5,0.0
+MrDodgy Online Inv,2.6,1.0,2688,2.6,1.0
+MrDodgy Online Inv,2.7,1.0,2688,2.7,1.0
+MrDodgy Online Inv,2.8,0.5,2688,2.8,1.0
+MrDodgy Online Inv,2.9,1.0,2688,2.9,0.5
+MrDodgy Online Inv,3.1,1.0,2719,3.1,1.0
+MrDodgy Online Inv,3.2,0.5,2719,3.2,1.0
+MrDodgy Online Inv,3.3,1.0,2719,3.3,0.5
+MrDodgy Online Inv,3.4,0.5,2719,3.4,1.0
+MrDodgy Online Inv,3.5,0.5,2719,3.5,0.5
+MrDodgy Online Inv,3.6,1.0,2719,3.6,0.5
+MrDodgy Online Inv,3.7,0.5,2719,3.7,1.0
+MrDodgy Online Inv,3.8,1.0,2719,3.8,0.5
+MrDodgy Online Inv,3.9,1.0,2719,3.9,1.0
+MrDodgy Online Inv 2nd,1.2,1.0,2524,1.2,1.0
+MrDodgy Online Inv 2nd,1.3,1.0,2524,1.3,1.0
+MrDodgy Online Inv 2nd,1.4,1.0,2524,1.4,1.0
+MrDodgy Online Inv 2nd,1.5,1.0,2524,1.5,1.0
+MrDodgy Online Inv 2nd,1.6,1.0,2524,1.6,1.0
+MrDodgy Online Inv 2nd,1.7,1.0,2524,1.7,1.0
+MrDodgy Online Inv 2nd,2.1,1.0,2670,2.1,1.0
+MrDodgy Online Inv 2nd,2.2,0.0,2670,2.2,1.0
+MrDodgy Online Inv 2nd,2.3,1.0,2670,2.3,0.0
+MrDodgy Online Inv 2nd,2.4,1.0,2670,2.4,1.0
+MrDodgy Online Inv 2nd,2.5,0.5,2670,2.5,1.0
+MrDodgy Online Inv 2nd,2.6,1.0,2670,2.6,0.5
+MrDodgy Online Inv 2nd,2.7,1.0,2670,2.7,1.0
+MrDodgy Online Inv 2nd,2.8,0.0,2670,2.8,1.0
+MrDodgy Online Inv 2nd,2.9,1.0,2670,2.9,0.0
+MrDodgy Online Inv 2nd,3.10,1.0,2710,3.1,1.0
+MrDodgy Online Inv 2nd,3.1,1.0,2710,3.1,1.0
+MrDodgy Online Inv 2nd,3.11,0.0,2710,3.11,1.0
+MrDodgy Online Inv 2nd,3.12,1.0,2710,3.12,0.0
+MrDodgy Online Inv 2nd,3.2,0.0,2710,3.2,1.0
+MrDodgy Online Inv 2nd,3.3,0.0,2710,3.3,0.0
+MrDodgy Online Inv 2nd,3.4,1.0,2710,3.4,0.0
+MrDodgy Online Inv 2nd,3.5,0.5,2710,3.5,1.0
+MrDodgy Online Inv 2nd,3.6,1.0,2710,3.6,0.5
+MrDodgy Online Inv 2nd,3.7,1.0,2710,3.7,1.0
+MrDodgy Online Inv 2nd,3.8,0.0,2710,3.8,1.0
+MrDodgy Online Inv 2nd,3.9,0.5,2710,3.9,0.0
+MrDodgy Online Inv 2nd,4.1,1.0,2603,4.1,0.5
+MrDodgy Online Inv 2nd,4.10,1.0,2603,4.1,1.0
+MrDodgy Online Inv 2nd,4.2,0.0,2603,4.2,1.0
+MrDodgy Online Inv 2nd,4.3,1.0,2603,4.3,0.0
+MrDodgy Online Inv 2nd,4.4,0.0,2603,4.4,1.0
+MrDodgy Online Inv 2nd,4.5,1.0,2603,4.5,0.0
+MrDodgy Online Inv 2nd,4.6,0.5,2603,4.6,1.0
+MrDodgy Online Inv 2nd,4.7,1.0,2603,4.7,0.5
+MrDodgy Online Inv 2nd,4.8,1.0,2603,4.8,1.0
+MrDodgy Online Inv 2nd,4.9,0.5,2603,4.9,1.0
+Nations Cup Online Prelim,4.3,0.5,2770,4.3,0.0
+Nations Cup Online Prelim,5.3,0.0,2686,5.3,0.5
+Nations Cup Online Prelim,9.3,0.5,2770,9.3,0.0
+Olympiad-43,4.24,1.0,2615,4.24,0.5
+Olympiad-43,7.4,0.5,2661,7.4,1.0
+Olympiad-43,8.1,0.5,2804,8.1,0.5
+Olympiad-43,10.1,0.5,2743,10.1,0.5
+Online Olym Div Top-B,2.1,1.0,2654,2.1,1.0
+Online Olym Div Top-B,3.1,0.5,2623,3.1,1.0
+Online Olym Div Top-B,7.1,0.0,2688,7.1,0.5
+Online Olym Div2 C,2.1,0.0,2617,2.1,0.5
+Online Olym Div2 C,8.1,0.0,2587,8.1,0.0
+Online Olym Div2 C,9.1,1.0,2703,9.1,0.0
+Opera Euro Rapid KO,1.12,0.5,2765,1.12,0.5
+Opera Euro Rapid KO,1.13,0.0,2765,1.13,0.5
+Opera Euro Rapid KO,1.14,1.0,2765,1.14,0.0
+Opera Euro Rapid KO,1.21,0.5,2765,1.21,1.0
+Opera Euro Rapid KO,1.22,0.5,2765,1.22,0.5
+Opera Euro Rapid KO,1.23,0.5,2765,1.23,0.5
+Opera Euro Rapid KO,1.24,0.5,2765,1.24,0.5
+Opera Euro Rapid KO,1.31,0.5,2765,1.31,0.5
+Opera Euro Rapid KO,1.32,0.0,2765,1.32,0.5
+Opera Euro Rapid Prelim,2,0.5,2710,2.0,0.5
+Opera Euro Rapid Prelim,3,1.0,2789,3.0,0.5
+Opera Euro Rapid Prelim,4,0.0,2736,4.0,1.0
+Opera Euro Rapid Prelim,5,1.0,2726,5.0,0.0
+Opera Euro Rapid Prelim,6,0.5,2765,6.0,1.0
+Opera Euro Rapid Prelim,7,1.0,2791,7.0,0.5
+Opera Euro Rapid Prelim,8,0.5,2862,8.0,1.0
+Opera Euro Rapid Prelim,9,1.0,2784,9.0,0.5
+Opera Euro Rapid Prelim,10,0.5,2770,10.0,1.0
+Opera Euro Rapid Prelim,11,0.5,2781,11.0,0.5
+Opera Euro Rapid Prelim,12,1.0,2670,12.0,0.5
+Opera Euro Rapid Prelim,13,0.5,2691,13.0,1.0
+Opera Euro Rapid Prelim,14,0.5,2758,14.0,0.5
+Opera Euro Rapid Prelim,15,0.5,2743,15.0,0.5
+PNWCC Online blitz JP 11th,3,1.0,2514,3.0,0.0
+PNWCC Online blitz JP 11th,5,1.0,2607,5.0,1.0
+PNWCC Online blitz JP 11th,8,1.0,2620,8.0,1.0
+PNWCC Online blitz JP 11th,9,0.5,2559,9.0,1.0
+PNWCC Online blitz JP 11th,10,0.5,2722,10.0,0.5
+PNWCC Online blitz JP 11th,11,1.0,2536,11.0,0.5
+PRO League KO Stage,1,1.0,2651,1.0,1.0
+PRO League KO Stage,1,1.0,2592,1.0,1.0
+PRO League KO Stage,1,1.0,2582,1.0,1.0
+PRO League KO Stage,2,0.0,2673,2.0,1.0
+PRO League KO Stage,2,0.5,2665,2.0,0.0
+PRO League KO Stage,2,1.0,2652,2.0,0.5
+PRO League KO Stage,2,0.5,2593,2.0,1.0
+PRO League KO Stage,3.1,1.0,2601,3.1,0.5
+PRO League KO Stage,3.2,0.0,2545,3.2,1.0
+PRO League KO Stage,3.3,0.0,2676,3.3,0.0
+PRO League KO Stage,3.4,0.5,2617,3.4,0.0
+PRO League KO Stage,4.1,1.0,2732,4.1,0.5
+PRO League KO Stage,4.2,0.5,2683,4.2,1.0
+PRO League KO Stage,4.3,0.0,2805,4.3,0.5
+PRO League KO Stage,4.4,0.5,2709,4.4,0.0
+PRO League Stage,7,1.0,2666,7.0,0.5
+PRO League Stage,7,0.5,2601,7.0,1.0
+PRO League Stage,7,1.0,2597,7.0,0.5
+PRO League Stage,7,0.5,2672,7.0,1.0
+PRO League Stage,7,0.5,2645,7.0,0.5
+PRO League Stage,7,1.0,2631,7.0,0.5
+PRO League Stage,7,1.0,2629,7.0,1.0
+PRO League Stage,7,1.0,2623,7.0,1.0
+Palma de Mallorca FIDE GP,4,0.0,2801,4.0,0.5
+Palma de Mallorca FIDE GP,7,0.5,2774,7.0,0.0
+Palma de Mallorca FIDE GP,8,0.0,2741,8.0,0.5
+Paris GCT blitz,2,0.0,2700,2.0,1.0
+Paris GCT blitz,3,0.5,2766,3.0,0.0
+Paris GCT blitz,4,0.0,2819,4.0,0.5
+Paris GCT blitz,5,0.5,2754,5.0,0.0
+Paris GCT blitz,6,1.0,2775,6.0,0.5
+Paris GCT blitz,7,0.0,2775,7.0,1.0
+Paris GCT blitz,8,0.0,2764,8.0,0.0
+Paris GCT blitz,9,1.0,2729,9.0,0.0
+Paris GCT blitz,10,0.0,2765,10.0,1.0
+Paris GCT blitz,11,1.0,2700,11.0,0.0
+Paris GCT blitz,12,0.0,2766,12.0,1.0
+Paris GCT blitz,13,0.5,2819,13.0,0.0
+Paris GCT blitz,14,0.0,2754,14.0,0.5
+Paris GCT blitz,15,1.0,2775,15.0,0.0
+Paris GCT blitz,16,0.5,2775,16.0,1.0
+Paris GCT blitz,17,0.5,2764,17.0,0.5
+Paris GCT blitz,18,0.0,2729,18.0,0.5
+Paris GCT rapid,2,0.0,2764,2.0,0.0
+Paris GCT rapid,3,0.5,2700,3.0,0.0
+Paris GCT rapid,4,0.0,2775,4.0,0.5
+Paris GCT rapid,5,0.5,2775,5.0,0.0
+Paris GCT rapid,6,0.0,2765,6.0,0.5
+Paris GCT rapid,7,0.5,2819,7.0,0.0
+Paris GCT rapid,8,0.5,2766,8.0,0.5
+Paris GCT rapid,9,0.5,2754,9.0,0.5
+Riga FIDE GP,1.2,0.5,2748,1.2,0.5
+Riga FIDE GP,1.3,0.0,2748,1.3,0.5
+Riga FIDE GP,1.4,1.0,2748,1.4,0.0
+Riga FIDE GP,1.5,0.5,2748,1.5,1.0
+Riga FIDE GP,1.6,0.5,2748,1.6,0.5
+Riga FIDE GP,1.7,0.5,2748,1.7,0.5
+Riga FIDE GP,1.8,0.5,2748,1.8,0.5
+Riga FIDE GP,1.9,0.0,2748,1.9,0.5
+Shenzhen Du Te Cup 2nd,2,0.5,2764,2.0,0.5
+Shenzhen Du Te Cup 2nd,3,0.5,2709,3.0,0.5
+Shenzhen Du Te Cup 2nd,4,0.5,2749,4.0,0.5
+Shenzhen Du Te Cup 2nd,5,0.5,2778,5.0,0.5
+Shenzhen Du Te Cup 2nd,6,0.5,2816,6.0,0.5
+Shenzhen Du Te Cup 2nd,7,0.5,2764,7.0,0.5
+Shenzhen Du Te Cup 2nd,8,0.5,2709,8.0,0.5
+Shenzhen Du Te Cup 2nd,9,0.5,2778,9.0,0.5
+Shenzhen Du Te Cup 2nd,10,1.0,2749,10.0,0.5
+Shenzhen Du Te Cup 3rd,2,1.0,2723,2.0,0.5
+Shenzhen Du Te Cup 3rd,3,0.5,2809,3.0,1.0
+Shenzhen Du Te Cup 3rd,4,0.5,2719,4.0,0.5
+Shenzhen Du Te Cup 3rd,5,0.5,2726,5.0,0.5
+Shenzhen Du Te Cup 3rd,6,1.0,2751,6.0,0.5
+Shenzhen Du Te Cup 3rd,7,0.5,2723,7.0,1.0
+Shenzhen Du Te Cup 3rd,8,0.5,2809,8.0,0.5
+Shenzhen Du Te Cup 3rd,9,0.5,2726,9.0,0.5
+Shenzhen Du Te Cup 3rd,10,1.0,2719,10.0,0.5
+Sinquefield Cup 7th,2,0.5,2765,2.0,0.5
+Sinquefield Cup 7th,3,0.5,2776,3.0,0.5
+Sinquefield Cup 7th,4,0.5,2778,4.0,0.5
+Sinquefield Cup 7th,5,0.0,2805,5.0,0.5
+Sinquefield Cup 7th,6,0.5,2756,6.0,0.0
+Sinquefield Cup 7th,7,0.5,2818,7.0,0.5
+Sinquefield Cup 7th,8,0.5,2764,8.0,0.5
+Sinquefield Cup 7th,9,0.5,2750,9.0,0.5
+Sinquefield Cup 7th,10,0.5,2743,10.0,0.5
+Sinquefield Cup 7th,11,1.0,2774,11.0,0.5
+Skilling op KO,1.12,0.5,2862,1.12,0.5
+Skilling op KO,1.13,0.5,2862,1.13,0.5
+Skilling op KO,1.14,0.0,2862,1.14,0.5
+Skilling op KO,1.21,0.5,2862,1.21,0.0
+Skilling op KO,1.22,0.5,2862,1.22,0.5
+Skilling op KO,1.23,0.5,2862,1.23,0.5
+Skilling op KO,1.24,0.5,2862,1.24,0.5
+Skilling op Prelim,2,1.0,2752,2.0,0.5
+Skilling op Prelim,3,0.5,2736,3.0,1.0
+Skilling op Prelim,4,1.0,2709,4.0,0.5
+Skilling op Prelim,5,1.0,2726,5.0,1.0
+Skilling op Prelim,6,0.5,2770,6.0,1.0
+Skilling op Prelim,7,0.5,2723,7.0,0.5
+Skilling op Prelim,8,0.5,2784,8.0,0.5
+Skilling op Prelim,9,0.5,2862,9.0,0.5
+Skilling op Prelim,10,0.5,2765,10.0,0.5
+Skilling op Prelim,11,0.5,2675,11.0,0.5
+Skilling op Prelim,12,0.0,2749,12.0,0.5
+Skilling op Prelim,13,0.0,2781,13.0,0.0
+Skilling op Prelim,14,0.5,2743,14.0,0.0
+Skilling op Prelim,15,0.5,2791,15.0,0.5
+Tata Steel 83rd,2,0.5,2671,2.0,1.0
+Tata Steel 83rd,3,0.5,2668,3.0,0.5
+Tata Steel 83rd,4,0.5,2743,4.0,0.5
+Tata Steel 83rd,5,0.5,2732,5.0,0.5
+Tata Steel 83rd,6,0.5,2677,6.0,0.5
+Tata Steel 83rd,7,1.0,2663,7.0,0.5
+Tata Steel 83rd,8,0.5,2823,8.0,1.0
+Tata Steel 83rd,9,1.0,2784,9.0,0.5
+Tata Steel 83rd,10,1.0,2705,10.0,1.0
+Tata Steel 83rd,11,0.5,2862,11.0,1.0
+Tata Steel 83rd,12,0.5,2749,12.0,0.5
+Tata Steel 83rd,13,0.5,2679,13.0,0.5
+Tata Steel 83rd playoff,2,0.5,2671,2.0,0.5
+Tata Steel 83rd playoff,3,0.0,2671,3.0,0.5
+Tata Steel India blitz,2,0.5,2870,2.0,0.5
+Tata Steel India blitz,3,0.5,2801,3.0,0.5
+Tata Steel India blitz,4,0.0,2773,4.0,0.5
+Tata Steel India blitz,5,1.0,2772,5.0,0.0
+Tata Steel India blitz,6,0.5,2757,6.0,1.0
+Tata Steel India blitz,7,0.0,2760,7.0,0.5
+Tata Steel India blitz,8,0.5,2722,8.0,0.0
+Tata Steel India blitz,9,0.5,2731,9.0,0.5
+Tata Steel India blitz,10,0.5,2741,10.0,0.5
+Tata Steel India blitz,11,0.5,2870,11.0,0.5
+Tata Steel India blitz,12,0.5,2801,12.0,0.5
+Tata Steel India blitz,13,0.5,2773,13.0,0.5
+Tata Steel India blitz,14,0.5,2772,14.0,0.5
+Tata Steel India blitz,15,1.0,2757,15.0,0.5
+Tata Steel India blitz,16,0.5,2760,16.0,1.0
+Tata Steel India blitz,17,1.0,2722,17.0,0.5
+Tata Steel India blitz,18,0.5,2731,18.0,1.0
+Tata Steel India rapid,2,0.5,2772,2.0,1.0
+Tata Steel India rapid,3,0.0,2741,3.0,0.5
+Tata Steel India rapid,4,0.5,2722,4.0,0.0
+Tata Steel India rapid,5,0.0,2870,5.0,0.5
+Tata Steel India rapid,6,1.0,2757,6.0,0.0
+Tata Steel India rapid,7,0.5,2731,7.0,1.0
+Tata Steel India rapid,8,0.5,2801,8.0,0.5
+Tata Steel India rapid,9,0.5,2760,9.0,0.5
+Tata Steel-A 80th,3,0.5,2768,3.0,1.0
+Tata Steel-A 80th,4,0.5,2834,4.0,0.5
+Tata Steel-A 80th,6,0.5,2767,6.0,0.5
+Tata Steel-A 80th,7,0.5,2792,7.0,0.5
+Tata Steel-A 80th,8,1.0,2804,8.0,0.5
+Tata Steel-A 80th,9,1.0,2718,9.0,1.0
+Tata Steel-A 80th,10,0.5,2753,10.0,1.0
+Tata Steel-A 80th,11,0.5,2811,11.0,0.5
+Tata Steel-A 80th,13,0.5,2743,13.0,0.5
+Tata Steel-A 81st,2,1.0,2777,2.0,0.0
+Tata Steel-A 81st,3,0.5,2817,3.0,1.0
+Tata Steel-A 81st,4,1.0,2731,4.0,0.5
+Tata Steel-A 81st,5,0.5,2773,5.0,1.0
+Tata Steel-A 81st,6,1.0,2738,6.0,0.5
+Tata Steel-A 81st,7,0.5,2813,7.0,1.0
+Tata Steel-A 81st,8,0.5,2695,8.0,0.5
+Tata Steel-A 81st,9,0.5,2612,9.0,0.5
+Tata Steel-A 81st,10,1.0,2724,10.0,0.5
+Tata Steel-A 81st,11,1.0,2725,11.0,1.0
+Tata Steel-A 81st,12,0.5,2757,12.0,1.0
+Tata Steel-A 81st,13,0.5,2835,13.0,0.5
+Tata Steel-A 82nd,2,0.5,2822,2.0,0.5
+Tata Steel-A 82nd,3,0.5,2758,3.0,0.5
+Tata Steel-A 82nd,4,0.5,2747,4.0,0.5
+Tata Steel-A 82nd,5,0.0,2723,5.0,0.5
+Tata Steel-A 82nd,6,1.0,2660,6.0,0.0
+Tata Steel-A 82nd,7,0.5,2758,7.0,1.0
+Tata Steel-A 82nd,8,0.5,2731,8.0,0.5
+Tata Steel-A 82nd,9,0.5,2765,9.0,0.5
+Tata Steel-A 82nd,10,0.5,2683,10.0,0.5
+Tata Steel-A 82nd,11,0.5,2726,11.0,0.5
+Tata Steel-A 82nd,12,0.5,2712,12.0,0.5
+Tata Steel-A 82nd,13,0.5,2644,13.0,0.5
+Tata Steel-A playoff 80th,15,0.5,2834,15.0,0.0
+Titled Tuesday intern op 10th Nov,5,1.0,2605,5.0,1.0
+Titled Tuesday intern op 10th Nov,6,0.0,2585,6.0,1.0
+Titled Tuesday intern op 10th Nov,7,1.0,2560,7.0,0.0
+Titled Tuesday intern op 10th Nov,8,1.0,2663,8.0,1.0
+Titled Tuesday intern op 10th Nov,9,0.0,2555,9.0,1.0
+Titled Tuesday intern op 10th Nov,10,1.0,2490,10.0,0.0
+Titled Tuesday intern op 10th Nov,11,1.0,2663,11.0,1.0
+Titled Tuesday intern op 12th May,10,0.0,2690,10.0,0.0
+Titled Tuesday intern op 14th April,2,0.5,2641,2.0,1.0
+Titled Tuesday intern op 14th April,4,1.0,2707,4.0,0.5
+Titled Tuesday intern op 14th April,5,1.0,2774,5.0,1.0
+Titled Tuesday intern op 14th April,6,1.0,2826,6.0,1.0
+Titled Tuesday intern op 14th April,7,0.0,2855,7.0,1.0
+Titled Tuesday intern op 14th April,8,0.0,2798,8.0,0.0
+Titled Tuesday intern op 14th July,7,0.5,2685,7.0,1.0
+Titled Tuesday intern op 14th July,8,1.0,2777,8.0,0.5
+Titled Tuesday intern op 14th July,9,0.0,2835,9.0,1.0
+Titled Tuesday intern op 15t Sept,7,1.0,2509,7.0,1.0
+Titled Tuesday intern op 15t Sept,9,0.0,2539,9.0,1.0
+Titled Tuesday intern op 15t Sept,10,0.0,2512,10.0,0.0
+Titled Tuesday intern op 16th June,5,1.0,2524,5.0,1.0
+Titled Tuesday intern op 16th June,7,1.0,2615,7.0,1.0
+Titled Tuesday intern op 16th June,8,0.0,2554,8.0,1.0
+Titled Tuesday intern op 17th Nov,4,0.0,2487,4.0,1.0
+Titled Tuesday intern op 17th Nov,5,1.0,2492,5.0,0.0
+Titled Tuesday intern op 17th Nov,7,1.0,2562,7.0,1.0
+Titled Tuesday intern op 17th Nov,8,0.5,2685,8.0,1.0
+Titled Tuesday intern op 17th Nov,9,0.0,2615,9.0,0.5
+Titled Tuesday intern op 17th Nov,10,1.0,2490,10.0,0.0
+Titled Tuesday intern op 19th May,9,0.0,2607,9.0,0.5
+Titled Tuesday intern op 1st May,4,1.0,2673,4.0,1.0
+Titled Tuesday intern op 1st May,5,0.5,2709,5.0,1.0
+Titled Tuesday intern op 1st May,6,0.0,2705,6.0,0.5
+Titled Tuesday intern op 1st May,8,1.0,2732,8.0,0.0
+Titled Tuesday intern op 1st May,9,1.0,2725,9.0,1.0
+Titled Tuesday intern op 1st May,10,1.0,2761,10.0,1.0
+Titled Tuesday intern op 21st April,3,1.0,2477,3.0,0.0
+Titled Tuesday intern op 21st April,4,1.0,2591,4.0,1.0
+Titled Tuesday intern op 21st April,5,1.0,2668,5.0,1.0
+Titled Tuesday intern op 21st April,6,1.0,2718,6.0,1.0
+Titled Tuesday intern op 21st April,7,0.0,2769,7.0,1.0
+Titled Tuesday intern op 21st April,8,1.0,2619,8.0,0.0
+Titled Tuesday intern op 21st April,9,1.0,2716,9.0,1.0
+Titled Tuesday intern op 26th May,8,1.0,2582,8.0,0.0
+Titled Tuesday intern op 26th May,9,1.0,2573,9.0,1.0
+Titled Tuesday intern op 26th May,10,1.0,2594,10.0,1.0
+Titled Tuesday intern op 27th Oct,5,1.0,2563,5.0,1.0
+Titled Tuesday intern op 27th Oct,6,0.0,2603,6.0,1.0
+Titled Tuesday intern op 27th Oct,7,1.0,2510,7.0,0.0
+Titled Tuesday intern op 27th Oct,9,0.0,2632,9.0,1.0
+Titled Tuesday intern op 27th Oct,10,1.0,2527,10.0,0.0
+Titled Tuesday intern op 27th Oct,11,0.5,2562,11.0,1.0
+Titled Tuesday intern op 3rd Nov,7,0.5,2627,7.0,1.0
+Titled Tuesday intern op 3rd Nov,8,0.0,2633,8.0,0.5
+Titled Tuesday intern op 3rd Nov,9,1.0,2593,9.0,0.0
+Titled Tuesday intern op 3rd Nov,10,0.0,2728,10.0,1.0
+Titled Tuesday intern op 3rd Nov,11,1.0,2593,11.0,0.0
+Titled Tuesday intern op 5th May,3,1.0,2660,3.0,1.0
+Titled Tuesday intern op 5th May,4,1.0,2558,4.0,1.0
+Titled Tuesday intern op 5th May,5,1.0,2563,5.0,1.0
+Titled Tuesday intern op 5th May,6,0.0,2627,6.0,1.0
+Titled Tuesday intern op 5th May,7,0.5,2599,7.0,0.0
+Titled Tuesday intern op 5th May,8,1.0,2659,8.0,0.5
+Titled Tuesday intern op 5th May,9,0.5,2670,9.0,1.0
+Titled Tuesday intern op 5th May,10,0.5,2606,10.0,0.5
+Titled Tuesday intern op 6th June,4,1.0,2514,4.0,0.5
+Titled Tuesday intern op 6th June,5,0.5,2524,5.0,1.0
+Titled Tuesday intern op 6th June,6,1.0,2564,6.0,0.5
+Titled Tuesday intern op 6th June,8,1.0,2520,8.0,1.0
+Titled Tuesday intern op 6th June,9,1.0,2572,9.0,1.0
+Titled Tuesday intern op 6th June,10,0.5,2648,10.0,1.0
+Titled Tuesday intern op 7th April,2,1.0,2495,2.0,0.5
+Titled Tuesday intern op 7th April,3,1.0,2556,3.0,1.0
+Titled Tuesday intern op 7th April,4,1.0,2683,4.0,1.0
+Titled Tuesday intern op 7th April,5,0.0,2741,5.0,1.0
+Titled Tuesday intern op 7th July,5,0.0,2602,5.0,1.0
+Titled Tuesday intern op 7th July,7,1.0,2612,7.0,0.0
+Titled Tuesday intern op 7th July,9,0.0,2629,9.0,1.0
+Titled Tuesday intern op 7th July,10,0.5,2598,10.0,0.0
+Titled Tuesday intern op 8th Sept,8,0.5,2512,8.0,0.5
+Titled Tuesday intern op 8th Sept,10,1.0,2597,10.0,0.5
+Titled Tuesday intern op 9th June,6,0.5,2663,6.0,1.0
+Titled Tuesday intern op 9th June,7,0.5,2515,7.0,0.5
+Titled Tuesday intern op 9th June,8,1.0,2549,8.0,0.5
+Titled Tuesday intern op 9th June,9,1.0,2640,9.0,1.0
+Titled Tuesday intern op 9th June,10,0.5,2728,10.0,1.0
+Wch Blitz,1,1.0,2588,1.0,0.5
+Wch Blitz,2,0.5,2609,2.0,1.0
+Wch Blitz,2,0.5,2679,2.0,0.5
+Wch Blitz,3,0.0,2605,3.0,0.5
+Wch Blitz,5,1.0,2589,5.0,0.0
+Wch Blitz,6,1.0,2646,6.0,1.0
+Wch Blitz,6,0.5,2709,6.0,1.0
+Wch Blitz,7,0.0,2676,7.0,0.5
+Wch Blitz,7,1.0,2735,7.0,0.0
+Wch Blitz,8,0.5,2620,8.0,1.0
+Wch Blitz,9,1.0,2587,9.0,0.5
+Wch Blitz,9,1.0,2605,9.0,1.0
+Wch Blitz,10,1.0,2597,10.0,1.0
+Wch Blitz,11,0.5,2613,11.0,1.0
+Wch Blitz,11,0.5,2714,11.0,0.5
+Wch Blitz,12,0.5,2601,12.0,0.5
+Wch Blitz,12,1.0,2765,12.0,0.5
+Wch Blitz,13,1.0,2721,13.0,1.0
+Wch Blitz,13,0.0,2835,13.0,1.0
+Wch Blitz,14,0.5,2604,14.0,0.0
+Wch Blitz,14,0.5,2746,14.0,0.5
+Wch Blitz,15,1.0,2677,15.0,0.5
+Wch Blitz,15,0.5,2670,15.0,1.0
+Wch Blitz,16,0.5,2738,16.0,0.5
+Wch Blitz,16,0.5,2700,16.0,0.5
+Wch Blitz,17,0.5,2736,17.0,0.5
+Wch Blitz,18,0.0,2723,18.0,0.5
+Wch Blitz,18,1.0,2709,18.0,0.0
+Wch Blitz,19,1.0,2772,19.0,1.0
+Wch Blitz,19,0.0,2738,19.0,1.0
+Wch Blitz,20,0.5,2705,20.0,0.0
+Wch Blitz,20,0.5,2753,20.0,0.5
+Wch Blitz,21,1.0,2663,21.0,0.5
+Wch Blitz,21,0.5,2719,21.0,1.0
+Wch Rapid,2,0.5,2639,2.0,1.0
+Wch Rapid,3,1.0,2693,3.0,0.5
+Wch Rapid,4,1.0,2588,4.0,1.0
+Wch Rapid,4,0.5,2643,4.0,1.0
+Wch Rapid,5,0.0,2758,5.0,0.5
+Wch Rapid,5,0.5,2589,5.0,0.0
+Wch Rapid,6,0.5,2683,6.0,0.5
+Wch Rapid,7,0.5,2723,7.0,0.5
+Wch Rapid,7,1.0,2598,7.0,0.5
+Wch Rapid,8,1.0,2620,8.0,1.0
+Wch Rapid,8,0.5,2763,8.0,1.0
+Wch Rapid,9,0.5,2736,9.0,0.5
+Wch Rapid,9,0.5,2817,9.0,0.5
+Wch Rapid,10,0.5,2614,10.0,0.5
+Wch Rapid,10,0.5,2613,10.0,0.5
+Wch Rapid,11,0.5,2677,11.0,0.5
+Wch Rapid,11,1.0,2660,11.0,0.5
+Wch Rapid,12,0.5,2730,12.0,1.0
+Wch Rapid,12,0.5,2549,12.0,0.5
+Wch Rapid,13,1.0,2642,13.0,0.5
+Wch Rapid,13,0.5,2764,13.0,1.0
+Wch Rapid,14,0.5,2668,14.0,0.5
+Wch Rapid,14,0.5,2700,14.0,0.5
+Wch Rapid,15,0.5,2607,15.0,0.5
+Wch Rapid,15,0.5,2698,15.0,0.5
+chess.com Speed,1.1,0.5,2730,1.1,1.0
+chess.com Speed,1.11,0.5,2730,1.11,0.5
+chess.com Speed,1.12,0.5,2730,1.12,0.5
+chess.com Speed,1.13,1.0,2730,1.13,0.5
+chess.com Speed,1.14,1.0,2730,1.14,1.0
+chess.com Speed,1.15,0.0,2730,1.15,1.0
+chess.com Speed,1.16,1.0,2730,1.16,0.0
+chess.com Speed,1.17,0.0,2730,1.17,1.0
+chess.com Speed,1.18,0.5,2730,1.18,0.0
+chess.com Speed,1.19,0.0,2730,1.19,0.5
+chess.com Speed,1.2,0.5,2730,1.2,0.0
+chess.com Speed,1.20,1.0,2730,1.2,0.5
+chess.com Speed,1.21,0.0,2730,1.21,1.0
+chess.com Speed,1.22,0.0,2730,1.22,0.0
+chess.com Speed,1.23,0.0,2730,1.23,0.0
+chess.com Speed,1.24,0.0,2730,1.24,0.0
+chess.com Speed,1.25,0.5,2730,1.25,0.0
+chess.com Speed,1.26,0.5,2730,1.26,0.5
+chess.com Speed,1.27,0.0,2730,1.27,0.5
+chess.com Speed,1.28,1.0,2730,1.28,0.0
+chess.com Speed,1.3,0.5,2730,1.3,1.0
+chess.com Speed,1.4,0.5,2730,1.4,0.5
+chess.com Speed,1.5,0.0,2730,1.5,0.5
+chess.com Speed,1.6,1.0,2730,1.6,0.0
+chess.com Speed,1.7,1.0,2730,1.7,1.0
+chess.com Speed,1.8,0.5,2730,1.8,1.0
+chess.com Speed,1.9,0.5,2730,1.9,0.5
+chess.com Speed 1m+1spm 2018,1.23,0.5,2801,1.23,1.0
+chess.com Speed 1m+1spm 2018,1.24,0.0,2801,1.24,0.5
+chess.com Speed 1m+1spm 2018,1.25,0.5,2801,1.25,0.0
+chess.com Speed 1m+1spm 2018,1.26,0.0,2801,1.26,0.5
+chess.com Speed 1m+1spm 2018,1.27,0.0,2801,1.27,0.0
+chess.com Speed 1m+1spm 2018,1.28,0.0,2801,1.28,0.0
+chess.com Speed 1m+1spm 2018,1.29,0.5,2801,1.29,0.0
+chess.com Speed 1m+1spm 2018,1.30,1.0,2801,1.3,0.5
+chess.com Speed 1m+1spm 2018,1.31,0.5,2801,1.31,1.0
+chess.com Speed 1m+1spm 2018,1.32,0.5,2801,1.32,0.5
+chess.com Speed 1m+1spm 2018,2.19,1.0,2767,2.19,0.5
+chess.com Speed 1m+1spm 2018,2.20,1.0,2767,2.2,1.0
+chess.com Speed 1m+1spm 2018,2.21,0.0,2767,2.21,1.0
+chess.com Speed 1m+1spm 2018,2.22,0.0,2767,2.22,0.0
+chess.com Speed 1m+1spm 2018,2.23,0.0,2767,2.23,0.0
+chess.com Speed 1m+1spm 2018,2.24,0.0,2767,2.24,0.0
+chess.com Speed 1m+1spm 2018,2.25,1.0,2767,2.25,0.0
+chess.com Speed 1m+1spm 2018,2.26,0.0,2767,2.26,1.0
+chess.com Speed 1m+1spm 2018,2.27,0.5,2767,2.27,0.0
+chess.com Speed 1m+1spm 2018,2.28,0.0,2767,2.28,0.5
+chess.com Speed 1m+1spm 2018,2.29,1.0,2767,2.29,0.0
+chess.com Speed 3m+1spm 2018,1.11,1.0,2801,1.11,1.0
+chess.com Speed 3m+1spm 2018,1.12,0.5,2801,1.12,1.0
+chess.com Speed 3m+1spm 2018,1.13,0.5,2801,1.13,0.5
+chess.com Speed 3m+1spm 2018,1.14,0.5,2801,1.14,0.5
+chess.com Speed 3m+1spm 2018,1.15,0.5,2801,1.15,0.5
+chess.com Speed 3m+1spm 2018,1.16,0.5,2801,1.16,0.5
+chess.com Speed 3m+1spm 2018,1.17,0.5,2801,1.17,0.5
+chess.com Speed 3m+1spm 2018,1.18,1.0,2801,1.18,0.5
+chess.com Speed 3m+1spm 2018,1.19,0.0,2801,1.19,1.0
+chess.com Speed 3m+1spm 2018,1.20,0.0,2801,1.2,0.0
+chess.com Speed 3m+1spm 2018,1.21,0.0,2801,1.21,0.0
+chess.com Speed 3m+1spm 2018,2.10,0.5,2767,2.1,0.0
+chess.com Speed 3m+1spm 2018,2.11,1.0,2767,2.11,0.5
+chess.com Speed 3m+1spm 2018,2.12,0.0,2767,2.12,1.0
+chess.com Speed 3m+1spm 2018,2.13,0.5,2767,2.13,0.0
+chess.com Speed 3m+1spm 2018,2.14,0.0,2767,2.14,0.5
+chess.com Speed 3m+1spm 2018,2.15,0.5,2767,2.15,0.0
+chess.com Speed 3m+1spm 2018,2.16,0.0,2767,2.16,0.5
+chess.com Speed 3m+1spm 2018,2.17,0.0,2767,2.17,0.0
+chess.com Speed 3m+1spm 2018,2.18,0.0,2767,2.18,0.0
+chess.com Speed 3m+1spm 2018,2.9,0.5,2767,2.9,0.0
+chess.com Speed 5m+1spm 2018,1.2,1.0,2801,1.2,1.0
+chess.com Speed 5m+1spm 2018,1.3,0.5,2801,1.3,1.0
+chess.com Speed 5m+1spm 2018,1.4,0.5,2801,1.4,0.5
+chess.com Speed 5m+1spm 2018,1.5,1.0,2801,1.5,0.5
+chess.com Speed 5m+1spm 2018,1.6,1.0,2801,1.6,1.0
+chess.com Speed 5m+1spm 2018,1.7,0.5,2801,1.7,1.0
+chess.com Speed 5m+1spm 2018,1.8,0.0,2801,1.8,0.5
+chess.com Speed 5m+1spm 2018,1.9,1.0,2801,1.9,0.0
+chess.com Speed 5m+1spm 2018,2.1,0.5,2767,2.1,1.0
+chess.com Speed 5m+1spm 2018,2.2,0.5,2767,2.2,0.5
+chess.com Speed 5m+1spm 2018,2.3,1.0,2767,2.3,0.5
+chess.com Speed 5m+1spm 2018,2.4,0.5,2767,2.4,1.0
+chess.com Speed 5m+1spm 2018,2.5,0.0,2767,2.5,0.5
+chess.com Speed 5m+1spm 2018,2.6,0.0,2767,2.6,0.0
+chess.com Speed 5m+1spm 2018,2.7,1.0,2767,2.7,0.0
+chess.com Speed 5m+1spm 2018,2.8,0.0,2767,2.8,1.0
